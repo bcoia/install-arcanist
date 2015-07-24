@@ -7,4 +7,4 @@ Before running, make sure that...
 
 On OSX:
 
-    curl -L https://raw.github.com/mikeclarke/install-arcanist/master/install.sh | sh
+    curl -L https://raw.github.com/bcoia/install-arcanist/master/install.sh | sh
