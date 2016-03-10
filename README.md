@@ -3,7 +3,7 @@ Arcanist Installer
 
 Before running, make sure that...
 
-* Homebrew is installed (`ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`)
+* [Homebrew](http://brew.sh/) is installed (`/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`)
 
 On OSX:
 
