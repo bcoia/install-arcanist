@@ -1,10 +1,9 @@
-Arcanist Installer
-==================
+Arcanist OS X Installer
+=======================
 
-Before running, make sure that...
+1. If you don't already have `brew` ([Homebrew](http://brew.sh/)), install it:
 
-* [Homebrew](http://brew.sh/) is installed (`/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`)
+    `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
-On OSX:
-
-    curl -L https://raw.github.com/bcoia/install-arcanist/master/install.sh | sh
+2. `curl -L https://raw.github.com/bcoia/install-arcanist/master/install.sh | sh`
+3. Nice! :ok_hand:
